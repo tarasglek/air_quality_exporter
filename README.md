@@ -8,4 +8,4 @@ Install deps:
 
 Run with:
 
-`./node_modules/.bin/ts-node index.ts /dev/ttyUSB0`
+`./node_modules/.bin/ts-node index.ts /dev/ttyUSB0 3000`
