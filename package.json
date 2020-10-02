@@ -1,0 +1,15 @@
+{
+  "name": "airlogger",
+  "version": "1.0.0",
+  "author": "Taras Glek",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@opentelemetry/metrics": "^0.11.0",
+    "@serialport/parser-inter-byte-timeout": "^9.0.1",
+    "@types/node": "^14.11.2",
+    "serialport": "^9.0.1",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
